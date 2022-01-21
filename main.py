@@ -7,6 +7,7 @@
 #
 #
 import argparse
+import  bs4
 from bs4 import BeautifulSoup
 import json
 import os
